@@ -47,3 +47,7 @@ README-prv2.md
 package-lock.json
 # .gitignore
 docker-compose000.txt
+#node test:
+server.js
+instructions-server-node.txt
+package.json
